@@ -148,5 +148,8 @@ This dashboard enables management and sales teams to monitor performance in real
 
 Screenshots
 Dasboard Looks Loke : https://github.com/Tanuja0521/Mobile-Sales-dashboard/blob/main/Screenshot%20PBI.png
+MTD : https://github.com/Tanuja0521/Mobile-Sales-dashboard/blob/main/Screenshot%20PBI.png
+SPLY: 
+
 
 
