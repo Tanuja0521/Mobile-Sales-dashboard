@@ -145,3 +145,8 @@ Time Intelligence Analysis
 🔗 Business Value
 
 This dashboard enables management and sales teams to monitor performance in real time, identify growth opportunities, optimize product strategies, and make informed business decisions using data-driven insights.
+
+Screenshots
+Dasboard Looks Loke : https://github.com/Tanuja0521/Mobile-Sales-dashboard/blob/main/Screenshot%20PBI.png
+
+
